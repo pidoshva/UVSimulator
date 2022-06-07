@@ -18,7 +18,8 @@ int main() {
     for (int i = 0; i < 100; i++){//initialize memory to be all zeros
         m.set_value(i,0);
     }
-
+    cout<<"by Void (Katia Anatska; Devyn Clayson; Jansen Fuller; Vadim Pidoshva; Christopher Pryor; Martin Robinette)"<<endl;
+    cout<<""<<endl;
     cout << "*** Welcome to UVSim! ***" << endl;
     cout << "*** Please enter your program one instruction ***" << endl;
     cout << "*** ( or data word ) at a time into the input ***" << endl;
